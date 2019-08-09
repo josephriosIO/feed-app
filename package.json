@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-burger-menu": "^2.6.11",
+    "use-dark-mode": "^2.3.1"
+  }
+}
